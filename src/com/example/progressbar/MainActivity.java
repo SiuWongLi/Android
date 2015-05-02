@@ -17,7 +17,7 @@ import android.widget.TextView;
 import android.os.Build;
 
 public class MainActivity extends ActionBarActivity {
-
+	private int flag =100;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
